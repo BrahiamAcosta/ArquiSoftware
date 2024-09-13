@@ -21,7 +21,7 @@ export default function FlightList({ flights }) {
               <td>{flight.origin}</td>
               <td>{flight.destination}</td>
               <td>{flight.date}</td>
-              <td>{flight.price}</td>
+              <td>${flight.price}</td>
               <td>{flight.maxPassengers}</td>
               <td>{flight.baggageType}</td>
               <td>{flight.flightType}</td>
