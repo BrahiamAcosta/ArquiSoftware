@@ -34,4 +34,5 @@ jobs:
           restore-keys: ${{ runner.os }}-m2
 #Run Tests
       - name: Run Tests
+        working-directory: Laboratorio2/CICDApplication
         run: mvn -B test
