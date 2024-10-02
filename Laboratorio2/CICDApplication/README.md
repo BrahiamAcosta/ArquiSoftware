@@ -1,4 +1,7 @@
 # Implementation of a Simple App with the next operations:
+
+[![CI/CD Pipeline](https://github.com/BrahiamAcosta/ArquiSoftware/actions/workflows/build.yml/badge.svg)](https://github.com/BrahiamAcosta/ArquiSoftware/actions/workflows/build.yml)
+
 * Get random nations
 * Get random currencies
 * Get random Aircraft
